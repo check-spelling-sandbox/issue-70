@@ -1,3 +1,3 @@
-Whaaat does the cat say?
+What does the cat say?
 
 meow
